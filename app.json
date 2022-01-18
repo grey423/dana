@@ -1,6 +1,6 @@
 {
-  "name": "Kyy-Userbot",
-  "description": "KYY-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "Cilik-Userbot",
+  "description": "CILIK-USERBOT KHUSUS YANG DIGUNAKAN UNTUK MEMBANTAI PARA PETINGGI DI TELEGRAM.",
   "logo": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/muhammadrizky16/Kyy-Userbot/Kyy-Userbot",
-  "telegram": "https://t.me/IDnyaKosong",
-  "success_url": "https://t.me/ahhsudahlahhh",
+  "repository": "https://github.com/grey423/Cilik-Userbot/Cilik-Userbot",
+  "telegram": "https://t.me/greyyvbss",
+  "success_url": "https://t.me/CilikProject",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "✨Kyy-Userbot✨",
+      "value": "Cilik-Userbot",
       "required": false
     },
     "ALIVE_NAME": {
@@ -95,12 +95,12 @@
     },
      "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
+      "value": "https://telegra.ph/file/ac134f6d295ad0c03af9b.jpg",
       "required": false
     },
-    "KYY_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using Kyy-Userbot ✨",
+    "CILIK_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .cilikalive (Isi Terserah)",
+      "value": "I'am Using Cilik-Userbot ",
       "required": false 
     },
     "S_PACK_NAME": {
@@ -109,7 +109,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's weather module.",
-      "value": "Batam",
+      "value": "Bogor",
       "required": false
     },
     "LOGSPAMMER": {
